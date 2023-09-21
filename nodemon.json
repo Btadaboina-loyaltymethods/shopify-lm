@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_HOST": "localhost",
+    "MONGO_PORT": 27017,
+    "MONGO_DEFAULT_DATABASE": "localHost",
+    "PORT": 2255
+  }
+}
